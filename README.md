@@ -269,6 +269,7 @@ sf2_out/
   MIDI System Exclusive documentation transcribed by Frank Neumann (lakai)
 - akaiutil by Klaus Michael Indlekofer, used to read Akai disks and export WAV
 - SoundFont 2.01 specification, E-mu / Creative
+- Written with assistance from Claude (Anthropic)
 
 ## License
 
