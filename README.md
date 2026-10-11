@@ -272,4 +272,4 @@ sf2_out/
 
 ## License
 
-Add a license of your choice (for example MIT) as `LICENSE` before publishing.
+`MIT`
